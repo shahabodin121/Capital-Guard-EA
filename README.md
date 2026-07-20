@@ -4,7 +4,7 @@
 
 ### Smart Money & Risk Management Assistant for MetaTrader 5
 
-<img src="images/cover.png" width="700">
+<img src="https://github.com/shahabodin121/Capital-Guard-EA/blob/main/pic/ca.PNG" width="700">
 
 </div>
 
@@ -37,9 +37,9 @@ It also provides instant order execution, pending order management, daily risk l
 
 # 📷 Interface
 
-<p align="center">
-<img src="images/interface.png" width="350">
-</p>
+<div align="center">
+<img src="https://github.com/shahabodin121/Capital-Guard-EA/blob/main/pic/ca22.PNG" width="60%">
+</div>
 
 ---
 
