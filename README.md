@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Capital Guard
+# 💻 Capital Guard EA
 
 ### Smart Money & Risk Management Assistant for MetaTrader 5
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 About
+##  About
 
 **Capital Guard** is a smart Money Management & Risk Management assistant designed for traders who want to execute trades faster while keeping their risk under control.
 
@@ -20,7 +20,7 @@ It also provides instant order execution, pending order management, daily risk l
 
 ---
 
-# ⭐ Why Capital Guard?
+#  Why Capital Guard?
 
 - ✔ Automatic Lot Size Calculation
 - ✔ Dollar Risk Management
@@ -35,15 +35,13 @@ It also provides instant order execution, pending order management, daily risk l
 
 ---
 
-# 📷 Interface
+# User Guide
 
 <div align="center">
-<img src="https://github.com/shahabodin121/Capital-Guard-EA/blob/main/pic/ca22.PNG" width="60%">
+<img src="https://github.com/shahabodin121/Capital-Guard-EA/blob/main/pic/ca22.jpg" width="30%">
 </div>
 
----
 
-# 🚀 User Guide
 
 ## 1️⃣ Instant Orders
 
@@ -196,7 +194,7 @@ Once the maximum allowed daily risk is reached:
 
 ---
 
-# 📊 Features
+#  Features
 
 | Feature | Supported |
 |----------|-----------|
@@ -213,6 +211,6 @@ Once the maximum allowed daily risk is reached:
 
 <div align="center">
 
-### Made with ❤️ for Professional Traders
+### Made with  for Professional Traders
 
 </div>
